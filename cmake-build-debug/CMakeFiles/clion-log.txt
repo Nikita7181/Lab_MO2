@@ -1,0 +1,9 @@
+/home/nikita/clion-2020.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /home/nikita/CLionProjects/simplex
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/nikita/.hunter
+-- [hunter] [ Hunter-ID: 3319fe6 | Toolchain-ID: 020aca2 | Config-ID: 65f8faa ]
+-- [hunter] NLOHMANN_JSON_ROOT: /home/nikita/.hunter/_Base/3319fe6/020aca2/65f8faa/Install (ver.: 3.8.0)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nikita/CLionProjects/simplex/cmake-build-debug

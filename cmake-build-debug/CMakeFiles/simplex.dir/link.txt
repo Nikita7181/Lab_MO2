@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/simplex.dir/sources/simplex.cpp.o CMakeFiles/simplex.dir/sources/main.cpp.o  -o simplex 
