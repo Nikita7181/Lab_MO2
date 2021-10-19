@@ -365,7 +365,7 @@ hunter_final_config(
 )
 hunter_final_config(
     PACKAGE "Qt"
-    VERSION "5.5.1-cvpixelbuffer-2-p9"
+    VERSION "5.11.3"
 )
 hunter_final_config(
     PACKAGE "QtAndroidCMake"

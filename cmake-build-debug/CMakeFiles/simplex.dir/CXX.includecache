@@ -17,10 +17,12 @@ string
 -
 fstream
 -
+sstream
+-
 nlohmann/json.hpp
 ../include/nlohmann/json.hpp
 
-/home/nikita/.hunter/_Base/3319fe6/020aca2/65f8faa/Install/include/nlohmann/json.hpp
+/Users/kefircik/.hunter/_Base/3319fe6/fcdf969/9c72a02/Install/include/nlohmann/json.hpp
 algorithm
 -
 cassert
@@ -346,7 +348,15 @@ limits
 type_traits
 -
 
-/home/nikita/CLionProjects/simplex/sources/simplex.cpp
+/Users/kefircik/CLionProjects/Simplex/sources/main.cpp
+iostream
+-
 simplex.h
-/home/nikita/CLionProjects/simplex/sources/simplex.h
+/Users/kefircik/CLionProjects/Simplex/sources/simplex.h
+nlohmann/json.hpp
+/Users/kefircik/CLionProjects/Simplex/sources/nlohmann/json.hpp
+
+/Users/kefircik/CLionProjects/Simplex/sources/simplex.cpp
+simplex.h
+/Users/kefircik/CLionProjects/Simplex/sources/simplex.h
 

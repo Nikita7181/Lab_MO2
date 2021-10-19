@@ -4,6 +4,7 @@
 #include <iomanip>
 #include <string>
 #include <fstream>
+#include <sstream>
 #include "nlohmann/json.hpp"
 
 class Simplex
