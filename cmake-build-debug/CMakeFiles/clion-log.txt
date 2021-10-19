@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/kefircik/CLionProjects/Simplex
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/kefircik/CLionProjects/Simplex_2
 -- The C compiler identification is AppleClang 13.0.0.13000029
 -- The CXX compiler identification is AppleClang 13.0.0.13000029
 -- Detecting C compiler ABI info
@@ -19,4 +19,4 @@
 -- Found nlohmann_json: /Users/kefircik/.hunter/_Base/3319fe6/fcdf969/9c72a02/Install/lib/cmake/nlohmann_json/nlohmann_jsonConfig.cmake (found suitable version "3.8.0", minimum required is "3.8.0") 
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/kefircik/CLionProjects/Simplex/cmake-build-debug
+-- Build files have been written to: /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug

@@ -348,15 +348,7 @@ limits
 type_traits
 -
 
-/Users/kefircik/CLionProjects/Simplex/sources/main.cpp
-iostream
--
+/Users/kefircik/CLionProjects/Simplex_2/sources/simplex.cpp
 simplex.h
-/Users/kefircik/CLionProjects/Simplex/sources/simplex.h
-nlohmann/json.hpp
-/Users/kefircik/CLionProjects/Simplex/sources/nlohmann/json.hpp
-
-/Users/kefircik/CLionProjects/Simplex/sources/simplex.cpp
-simplex.h
-/Users/kefircik/CLionProjects/Simplex/sources/simplex.h
+/Users/kefircik/CLionProjects/Simplex_2/sources/simplex.h
 

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/kefircik/CLionProjects/Simplex/cmake-build-debug/_3rdParty/Hunter/toolchain
+# Install script for directory: /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/_3rdParty/Hunter/toolchain
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

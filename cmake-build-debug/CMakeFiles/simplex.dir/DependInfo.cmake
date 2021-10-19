@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/kefircik/CLionProjects/Simplex/sources/main.cpp" "/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles/simplex.dir/sources/main.cpp.o"
-  "/Users/kefircik/CLionProjects/Simplex/sources/simplex.cpp" "/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles/simplex.dir/sources/simplex.cpp.o"
+  "/Users/kefircik/CLionProjects/Simplex_2/sources/main.cpp" "/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles/simplex.dir/sources/main.cpp.o"
+  "/Users/kefircik/CLionProjects/Simplex_2/sources/simplex.cpp" "/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles/simplex.dir/sources/simplex.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

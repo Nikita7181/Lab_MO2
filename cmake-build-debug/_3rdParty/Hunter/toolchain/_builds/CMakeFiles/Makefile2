@@ -54,10 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/kefircik/CLionProjects/Simplex/cmake-build-debug/_3rdParty/Hunter/toolchain
+CMAKE_SOURCE_DIR = /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/_3rdParty/Hunter/toolchain
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/kefircik/CLionProjects/Simplex/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds
+CMAKE_BINARY_DIR = /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds
 
 #=============================================================================
 # Directory level rules for the build root directory

@@ -54,10 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/kefircik/CLionProjects/Simplex
+CMAKE_SOURCE_DIR = /Users/kefircik/CLionProjects/Simplex_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/kefircik/CLionProjects/Simplex/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/simplex.dir/clean
 CMakeFiles/simplex.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/simplex.dir/build.make CMakeFiles/simplex.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/simplex.dir/build.make CMakeFiles/simplex.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target simplex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target simplex"
 .PHONY : CMakeFiles/simplex.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/simplex.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/simplex.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/simplex.dir/rule
 
 # Convenience name for target.

@@ -1,0 +1,7 @@
+
+3	cpp:S1481"unused exception parameter 'e'(†Š«æ
+Zcpp:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(²Þ§É
+Zcpp:S112"FDefine and throw a dedicated exception instead of using a generic one.(¹¤Ùè
+~	cpp:S5350"iMake the type of this variable a reference-to-const. The current type of "e" is "class std::exception &".(†Š«æ
+_cpp:S112"FDefine and throw a dedicated exception instead of using a generic one.(¾°™ãüÿÿÿÿ

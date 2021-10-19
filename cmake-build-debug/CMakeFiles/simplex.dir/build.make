@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/kefircik/CLionProjects/Simplex
+CMAKE_SOURCE_DIR = /Users/kefircik/CLionProjects/Simplex_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/kefircik/CLionProjects/Simplex/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/simplex.dir/depend.make
@@ -68,29 +68,29 @@ include CMakeFiles/simplex.dir/flags.make
 
 CMakeFiles/simplex.dir/sources/simplex.cpp.o: CMakeFiles/simplex.dir/flags.make
 CMakeFiles/simplex.dir/sources/simplex.cpp.o: ../sources/simplex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/simplex.dir/sources/simplex.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simplex.dir/sources/simplex.cpp.o -c /Users/kefircik/CLionProjects/Simplex/sources/simplex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/simplex.dir/sources/simplex.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simplex.dir/sources/simplex.cpp.o -c /Users/kefircik/CLionProjects/Simplex_2/sources/simplex.cpp
 
 CMakeFiles/simplex.dir/sources/simplex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simplex.dir/sources/simplex.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kefircik/CLionProjects/Simplex/sources/simplex.cpp > CMakeFiles/simplex.dir/sources/simplex.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kefircik/CLionProjects/Simplex_2/sources/simplex.cpp > CMakeFiles/simplex.dir/sources/simplex.cpp.i
 
 CMakeFiles/simplex.dir/sources/simplex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simplex.dir/sources/simplex.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kefircik/CLionProjects/Simplex/sources/simplex.cpp -o CMakeFiles/simplex.dir/sources/simplex.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kefircik/CLionProjects/Simplex_2/sources/simplex.cpp -o CMakeFiles/simplex.dir/sources/simplex.cpp.s
 
 CMakeFiles/simplex.dir/sources/main.cpp.o: CMakeFiles/simplex.dir/flags.make
 CMakeFiles/simplex.dir/sources/main.cpp.o: ../sources/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/simplex.dir/sources/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simplex.dir/sources/main.cpp.o -c /Users/kefircik/CLionProjects/Simplex/sources/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/simplex.dir/sources/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simplex.dir/sources/main.cpp.o -c /Users/kefircik/CLionProjects/Simplex_2/sources/main.cpp
 
 CMakeFiles/simplex.dir/sources/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simplex.dir/sources/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kefircik/CLionProjects/Simplex/sources/main.cpp > CMakeFiles/simplex.dir/sources/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kefircik/CLionProjects/Simplex_2/sources/main.cpp > CMakeFiles/simplex.dir/sources/main.cpp.i
 
 CMakeFiles/simplex.dir/sources/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simplex.dir/sources/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kefircik/CLionProjects/Simplex/sources/main.cpp -o CMakeFiles/simplex.dir/sources/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kefircik/CLionProjects/Simplex_2/sources/main.cpp -o CMakeFiles/simplex.dir/sources/main.cpp.s
 
 # Object files for target simplex
 simplex_OBJECTS = \
@@ -104,7 +104,7 @@ simplex: CMakeFiles/simplex.dir/sources/simplex.cpp.o
 simplex: CMakeFiles/simplex.dir/sources/main.cpp.o
 simplex: CMakeFiles/simplex.dir/build.make
 simplex: CMakeFiles/simplex.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable simplex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable simplex"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/simplex.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -116,6 +116,6 @@ CMakeFiles/simplex.dir/clean:
 .PHONY : CMakeFiles/simplex.dir/clean
 
 CMakeFiles/simplex.dir/depend:
-	cd /Users/kefircik/CLionProjects/Simplex/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/kefircik/CLionProjects/Simplex /Users/kefircik/CLionProjects/Simplex /Users/kefircik/CLionProjects/Simplex/cmake-build-debug /Users/kefircik/CLionProjects/Simplex/cmake-build-debug /Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles/simplex.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/kefircik/CLionProjects/Simplex_2 /Users/kefircik/CLionProjects/Simplex_2 /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug /Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles/simplex.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/simplex.dir/depend
 

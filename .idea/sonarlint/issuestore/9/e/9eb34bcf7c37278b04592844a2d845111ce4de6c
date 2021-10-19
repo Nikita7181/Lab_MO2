@@ -1,0 +1,49 @@
+
+“	cpp:S5276"yimplicit conversion loses integer precision: 'std::vector<std::vector<double>>::size_type' (aka 'unsigned long') to 'int'(²’şÌøÿÿÿÿ
+†	cpp:S5276"limplicit conversion loses integer precision: 'std::vector<double>::size_type' (aka 'unsigned long') to 'int'(„ÁĞ¨øÿÿÿÿ
+_	cpp:S5276"Eimplicit conversion loses integer precision: 'unsigned long' to 'int'(ßòûÿÿÿÿ
+p	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(¤†÷îüÿÿÿÿ
+{	cpp:S3230"aDo not assign data members in a constructor. Initialize member "sizey" in an initialization list.(²’şÌøÿÿÿÿ
+x	cpp:S3230"cDo not assign data members in a constructor. Initialize member "funcMax" in an initialization list.(½ëùª
+y	cpp:S3230"dDo not assign data members in a constructor. Initialize member "canSolve" in an initialization list.(¸“‡Ò
+~	cpp:S3230"dDo not assign data members in a constructor. Initialize member "infinite" in an initialization list.(—ãû£ùÿÿÿÿ
+Gcpp:S106B".Replace this usage of "std::cout" by a logger.(âÍ¸ÿÿÿÿÿ
+Bcpp:S106E".Replace this usage of "std::cout" by a logger.(èøƒÿ
+Bcpp:S106G".Replace this usage of "std::cout" by a logger.(˜æ™ù
+Bcpp:S106I".Replace this usage of "std::cout" by a logger.(‰‘÷†
+Gcpp:S106K".Replace this usage of "std::cout" by a logger.(†¥Ì‚ÿÿÿÿÿ
+Gcpp:S106N".Replace this usage of "std::cout" by a logger.(¯³ıåûÿÿÿÿ
+Bcpp:S106P".Replace this usage of "std::cout" by a logger.(˜æ™ù
+Bcpp:S106R".Replace this usage of "std::cout" by a logger.(‰‘÷†
+Gcpp:S106T".Replace this usage of "std::cout" by a logger.(ÇèÎ¸ûÿÿÿÿ
+Gcpp:S106W".Replace this usage of "std::cout" by a logger.(£È”ëüÿÿÿÿ
+Acpp:S106Z".Replace this usage of "std::cout" by a logger.(ã›ì	
+Bcpp:S106\".Replace this usage of "std::cout" by a logger.(˜æ™ù
+Gcpp:S106^".Replace this usage of "std::cout" by a logger.(Î›©¡ûÿÿÿÿ
+Bcpp:S106a".Replace this usage of "std::cout" by a logger.(ŞöÿÂ
+Gcpp:S106e".Replace this usage of "std::cout" by a logger.(øĞÍıÿÿÿÿ
+Q	cpp:S5566l"<Change this raw for-loop to "std::all_of" or "std::none_of".(éÂÿô
+gcpp:S134÷"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(şìÎçúÿÿÿÿ
+Hcpp:S106ñ".Replace this usage of "std::cout" by a logger.(èĞ×ûÿÿÿÿ
+Hcpp:S106ø".Replace this usage of "std::cout" by a logger.(¶ï¥šøÿÿÿÿ
+Hcpp:S106û".Replace this usage of "std::cout" by a logger.(£¦öœøÿÿÿÿ
+Hcpp:S106ƒ".Replace this usage of "std::cerr" by a logger.(û§Œ˜úÿÿÿÿ
+Ccpp:S106‡".Replace this usage of "std::cerr" by a logger.(÷èäË
+Ccpp:S106".Replace this usage of "std::cout" by a logger.(ÇÅÊ¸
+Hcpp:S106".Replace this usage of "std::cout" by a logger.(˜¦çòşÿÿÿÿ
+Ccpp:S106’".Replace this usage of "std::cout" by a logger.(¨çÙÇ
+Ccpp:S106”".Replace this usage of "std::cout" by a logger.(ñş²
+Bcpp:S106•".Replace this usage of "std::cout" by a logger.(øòôi
+Bcpp:S106•".Replace this usage of "std::cout" by a logger.(øòôi
+Ccpp:S106–".Replace this usage of "std::cout" by a logger.(Ïíÿ
+Hcpp:S106™".Replace this usage of "std::cout" by a logger.(œ½æÈşÿÿÿÿ
+Hcpp:S106™".Replace this usage of "std::cout" by a logger.(œ½æÈşÿÿÿÿ
+Ccpp:S106›".Replace this usage of "std::cout" by a logger.(¨çÙÇ
+Hcpp:S106".Replace this usage of "std::cout" by a logger.(ù²ô¯ûÿÿÿÿ
+Hcpp:S106".Replace this usage of "std::cout" by a logger.(ù²ô¯ûÿÿÿÿ
+Hcpp:S106".Replace this usage of "std::cout" by a logger.(ù²ô¯ûÿÿÿÿ
+Ccpp:S106".Replace this usage of "std::cout" by a logger.(Ïíÿ
+Hcpp:S106¡".Replace this usage of "std::cout" by a logger.(¦Éúòÿÿÿÿÿ
+Hcpp:S106¡".Replace this usage of "std::cout" by a logger.(¦Éúòÿÿÿÿÿ
+Hcpp:S106£".Replace this usage of "std::cout" by a logger.(ÕÇÑ°üÿÿÿÿ
+@cpp:CommentedCode2"Remove the commented out code.(‡•ÏÛüÿÿÿÿ

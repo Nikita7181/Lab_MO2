@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/kefircik/CLionProjects/Simplex/include -isystem /Users/kefircik/.hunter/_Base/3319fe6/fcdf969/9c72a02/Install/include
+CXX_INCLUDES = -I/Users/kefircik/CLionProjects/Simplex_2/include -isystem /Users/kefircik/.hunter/_Base/3319fe6/fcdf969/9c72a02/Install/include
 
 CXX_FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17
 

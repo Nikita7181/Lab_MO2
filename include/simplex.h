@@ -7,6 +7,7 @@
 #include <sstream>
 #include "nlohmann/json.hpp"
 
+
 class Simplex
 {
     int sizex, sizey, sizec, sizea;
@@ -16,19 +17,24 @@ class Simplex
     double funcMax;
     std::vector<std::string> titleRow;
     std::vector<std::string> titleCol;
+    bool dual;
+
     bool canSolve;
     bool infinite;
 
+
+
+public:
     Simplex();
+    Simplex(std::vector <std::vector<double>> a, std::vector<double> b, std::vector<double> c);
     bool optimal();
     int findRow();
     int findColumn();
+    void calculate();
     void doTransform(int row, int col);
     void endless (int column);
-
-public:
-    Simplex(std::vector <std::vector<double>> a, std::vector<double> b, std::vector<double> c);
-    void calculate();
+    void getElem( int & row, int & col);
     void print();
     void print2();
+    void makeDual();
 };

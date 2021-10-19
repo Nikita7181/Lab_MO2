@@ -1,3 +1,3 @@
-/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kefircik/CLionProjects/Simplex/cmake-build-debug/CMakeFiles/simplex.dir
+/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kefircik/CLionProjects/Simplex_2/cmake-build-debug/CMakeFiles/simplex.dir
